@@ -1,0 +1,60 @@
+{
+   chats: [
+   { 
+      "id": "3498765434uyhb7865rdf", 
+      "name": "Gals Chat <3",
+      "messages": [
+        {
+        "id":"wc:chris.vieville@snapengage.com",
+        "date":1406738366,
+        "alias":"Chris",
+        "message":"Hi there! I see you are coming from the U.S. We do ship there, is there anything I can help with?  "
+      },
+      {
+        "id":"",
+        "date":1406738366,
+        "alias":"Helen",
+        "message":"Hello"
+      },
+      {
+        "id":"wc:chris.vieville@snapengage.com",
+        "date":1406738373,
+        "alias":"John",
+        "message":"Hello there!"
+      },
+      {
+        "id":"",
+        "date":1406738384,
+        "alias":"Helen",
+        "message":"How are you?"
+      },
+      {
+        "id":"wc:chris.vieville@snapengage.com",
+        "date":1406738390,
+        "alias":"Mike",
+        "message":"Great thank you!"
+      },
+      {
+        "id":"wc:chris.vieville@snapengage.com",
+        "date":1406738418,
+        "alias":"Chris",
+        "message":"May I ask who this is?"
+      },
+      {
+        "id":"",
+        "date":1406738445,
+        "alias":"Susan",
+        "message":"This is Ned Stark!"
+      },
+      {
+        "id":"wc:chris.vieville@snapengage.com",
+        "date":1406738466,
+        "alias":"Chris",
+        "message":"Wow! Back from the dead eh, Ned?!"
+      }
+      ]
+    },
+    { "id": "34987654kjhdlwvf4wedf", "name": "Work", "messages": [] },
+    { "id": "3445678ihgvdwu3r35rdf", "name": "BFF", "messages": [] }
+  ]
+}
